@@ -4,4 +4,4 @@ Little C program that calculates how long it will take to watch a video on a cer
 
 Future additions/changes: 
 - add conversions between decimals and minutes/seconds so the user doesn't have to do it themselves
-- make JS version and bthen build UI w/ CSS & HTML
+- make JS version and then build UI w/ CSS & HTML
